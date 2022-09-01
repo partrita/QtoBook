@@ -1,2 +1,7 @@
 # QtoBook
-material of writing quarto book
+
+collection of materials to writing quarto book
+
+# Todo list
+
+- [ ] make figure
